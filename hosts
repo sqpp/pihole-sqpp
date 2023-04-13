@@ -1,6 +1,5 @@
 
 # Amazon Ads
-
 0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analytics.s3.amazonaws.com
@@ -8,17 +7,14 @@
 0.0.0.0 advertising-api-eu.amazon.com
 
 # Doubleclick.net
-
 0.0.0.0 mediavisor.doubleclick.net
 0.0.0.0 afs.googlesyndication.com
 
 # Adcolony
-
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 wd.adcolony.com
 
 # MouseFlow
-
 127.0.0.1 mouseflow.com
 127.0.0.1 api.mouseflow.com
 127.0.0.1 tools.mouseflow.com
@@ -26,20 +22,35 @@
 
 # Freshworks
 0.0.0.0 freshmarketer.com
+0.0.0.0 claritybt.freshmarketer.com
+0.0.0.0 fwtracks.freshmarketer.com
+
+# Error Tracker
+0.0.0.0 api.bugsnag.com
+0.0.0.0 app.bugsnag.com
+0.0.0.0 app.getsentry.com
+0.0.0.0 browser.sentry-cdn.com
 
 # LuckyOrange
-
 0.0.0.0 api.luckyorange.com
 0.0.0.0 realtime.luckyorange.com
 0.0.0.0 cdn.luckyorange.com
 0.0.0.0 w1.luckyorange.com
 
 # Hotjar
-
 0.0.0.0 adm.hotjar.com
 0.0.0.0 identify.hotjar.com
 0.0.0.0 insights.hotjar.com
 0.0.0.0 surveys.hotjar.com
-0.0.0.0 events.hotjar.com
+0.0.0.0 events.hotjar.io
+
 # Stats WP
 0.0.0.0 stats.wp.com
+
+# Pinterest
+widgets.pinterest.com
+
+# Apple
+advertising.apple.com
+api-adservices.apple.com
+books-analytics-events.apple.com
