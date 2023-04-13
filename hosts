@@ -1,8 +1,8 @@
 
 # Amazon Ads
 
-0.0.0.0 adtago.3.amazonaws.com
+0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
-0.0.0.0 anaytics.s3.amazonaws.com
+0.0.0.0 analytics.s3.amazonaws.com
 0.0.0.0 advice-ads.s3.amazonaws.com
 0.0.0.0 advertising-api-eu.amazon.com
