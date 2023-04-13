@@ -19,13 +19,27 @@
 
 # MouseFlow
 
-0.0.0.0 mouseflow.com
-0.0.0.0 api.mouseflow.com
-0.0.0.0 tools.mouseflow.com
+127.0.0.1 mouseflow.com
+127.0.0.1 api.mouseflow.com
+127.0.0.1 tools.mouseflow.com
 0.0.0.0 cdn-test.mouseflow.com
 
 # Freshworks
-
 0.0.0.0 freshmarketer.com
+
+# LuckyOrange
+
+0.0.0.0 api.luckyorange.com
+0.0.0.0 realtime.luckyorange.com
+0.0.0.0 cdn.luckyorange.com
+0.0.0.0 w1.luckyorange.com
+
+# Hotjar
+
+0.0.0.0 adm.hotjar.com
+0.0.0.0 identify.hotjar.com
+0.0.0.0 insights.hotjar.com
+0.0.0.0 surveys.hotjar.com
+0.0.0.0 events.hotjar.com
 # Stats WP
 0.0.0.0 stats.wp.com
