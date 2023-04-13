@@ -6,3 +6,26 @@
 0.0.0.0 analytics.s3.amazonaws.com
 0.0.0.0 advice-ads.s3.amazonaws.com
 0.0.0.0 advertising-api-eu.amazon.com
+
+# Doubleclick.net
+
+0.0.0.0 mediavisor.doubleclick.net
+0.0.0.0 afs.googlesyndication.com
+
+# Adcolony
+
+0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 wd.adcolony.com
+
+# MouseFlow
+
+0.0.0.0 mouseflow.com
+0.0.0.0 api.mouseflow.com
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 cdn-test.mouseflow.com
+
+# Freshworks
+
+0.0.0.0 freshmarketer.com
+# Stats WP
+0.0.0.0 stats.wp.com
